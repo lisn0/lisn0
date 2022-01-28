@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisn0&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/lisn0/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/lisn0/github-stats/blob/master/generated/languages.svg)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisn0&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
